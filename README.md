@@ -1,4 +1,4 @@
-*Create beautiful gradient backgrounds for your website.*
+**Create beautiful gradient backgrounds for your website.**
 
 Just take the jquery plugin into your project and you are ready to go!
 
